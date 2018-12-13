@@ -37,9 +37,11 @@ fail to run in its entirety.
 4. You can now run any Python Script for any of
 the models provided in the Python Scripts folder,
 which will generate all the relevant results reported.
+
 • It is important to note that some files may take a long
 time to train and test, sometimes over 24 hours depending on the computational power you have at your disposal. All of our models were trained and tested using
 a Nvidia 840M GPU (lower-end laptop GPU)
+
 • If you wish to run a given model in an interactive
 Jupyter notebook format then simply add the contents
 of the CUHK03-NP data-set we were provided with and
@@ -47,5 +49,6 @@ put it inside the Jupyter Notebooks Folder. Then simply
 open a Jupyter Notebook and run the code cell by cell.
 Each model has the same name in both .py and .ipynb
 formats.
+
 All the files used for training and testing can be found on our GitHub repository:
 https://github.com/RajanPatel97/EE4-68-PatternRecognition-CW2
