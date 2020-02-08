@@ -20,8 +20,7 @@ in the form of graphs and/or terminal outputs.
 proceed by following these instructions:
 1. Download the zip file of our
 GitHub code repository at this link:
-https://github.com/RajanPatel97/EE4-68-
-Pattern-Recognition-CW2/archive/master.zip
+https://github.com/RajanPatel97/Representation-and-Distance-Metric-Learning/archive/master.zip
 
 2. Unzip the zipped folder and extract its contents
 into its own new folder on your machine. In this
@@ -51,5 +50,4 @@ open a Jupyter Notebook and run the code cell by cell.
 Each model has the same name in both .py and .ipynb
 formats.
 
-All the files used for training and testing can be found on our GitHub repository:
-github.com/RajanPatel97/Representation-and-Distance-Metric-Learning
+All the files used for training and testing can be found on our GitHub repository: https://github.com/RajanPatel97/Representation-and-Distance-Metric-Learning
