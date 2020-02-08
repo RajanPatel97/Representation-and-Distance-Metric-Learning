@@ -1,4 +1,5 @@
-# EE4-68-Pattern-Recognition-CW2
+# Representation-and-Distance-Metric-Learning
+An exploration into distance metric learning, by considering the retrieval process involved in Person Re-Identification
 ## Training/Testing Instructions
 • PREREQUISITES: Ensure you have an installed python environment on your machine such as the latest Python or Anaconda distribution. Also ensure you have the following dependencies/libraries installed:
 1. Tensorflow
