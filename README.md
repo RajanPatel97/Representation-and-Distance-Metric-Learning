@@ -52,4 +52,4 @@ Each model has the same name in both .py and .ipynb
 formats.
 
 All the files used for training and testing can be found on our GitHub repository:
-https://github.com/RajanPatel97/EE4-68-Pattern-Recognition-CW2
+github.com/RajanPatel97/Representation-and-Distance-Metric-Learning
