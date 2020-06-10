@@ -1,5 +1,5 @@
 # Representation-and-Distance-Metric-Learning
-An exploration into distance metric learning, by considering the retrieval process involved in Person Re-Identification
+We present an exploration into distance metric learning, by considering the retrieval process involved in Person Re-Identification (Re-Id). Re-Id is the task of correctly identifying images of the same individual taken from disjoint camera views (i.e CCTV camera network), or from the same camera on different occasions. Our objective is to improve on baseline methods that perform K-Nearest Neighbours (K-NN) retrieval experiments, adhering to standard practices in pattern recognition. We endeavour to find an optimal approach that minimizes the retrieval error from computed ranklists (i.e @Rank1,@Rank10), whilst taking into consideration computational complexity.
 ## Training/Testing Instructions
 • PREREQUISITES: Ensure you have an installed python environment on your machine such as the latest Python or Anaconda distribution. Also ensure you have the following dependencies/libraries installed:
 1. Tensorflow
